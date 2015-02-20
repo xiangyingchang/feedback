@@ -23,5 +23,5 @@ into some of the older threads.
 ### Weibo
 
 If you have something quick and easy, just ping me on Twitter. 140 characters
-makes everyone more efficient. I'm [@向应昌kally](https://weibo.com/xiangyingchang) on
+makes everyone more efficient. I'm [@向应昌kally](http://weibo.com/xiangyingchang) on
 Weibo.
